@@ -54,12 +54,12 @@ video {
     border-radius: 10px;
     display: block;
     margin: 20px auto;
-    border: 3px solid #1565c0; /* Blue border for videos */
+    border: 3px solid #c01515; /* Red border for videos */
 }
 
 /* Image styling */
 img {
-    border: 3px solid #d32f2f; /* Red border for images */
+    border: 3px solid #2fd353; /* Blue border for images */
     border-radius: 8px;
     margin: 15px 0;
     display: block;
