@@ -12,6 +12,7 @@ nav {
     padding: 15px;
     text-align: center;
     border-bottom: 3px solid #1565c0; /* Blue accent inspired by FC Barcelona */
+    border-radius: 10px; /* Rounded corners */
 }
 
 nav a {
