@@ -26,7 +26,7 @@ nav a {
 nav a:hover {
     color: #ffeb3b; /* Yellow hover effect for contrast */
 }
-
+a{color:white;}
 /* Headings */
 h1 {
     color: #1565c0; /* FC Barcelona blue */
