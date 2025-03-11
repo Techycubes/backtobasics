@@ -2,7 +2,7 @@
 body {
     font-family: Arial, sans-serif;
     margin: 0;
-    padding: 20px;
+    padding: 10px;
     background-color: #1565c0; /* Light blue background for a soccer sky vibe */
     color:white;
 }
@@ -10,7 +10,7 @@ body {
 /* Navigation styling */
 nav {
     background-color: #d32f2f; /* Red inspired by Manchester United */
-    padding: 15px;
+    padding: 10px;
     text-align: center;
     border-bottom: 3px solid #1565c0; /* Blue accent inspired by FC Barcelona */
     border-radius: 10px; /* Rounded corners */
@@ -19,7 +19,6 @@ nav {
 nav a {
     color: white;
     text-decoration: none;
-    margin: 0 20px;
     font-size: 18px;
     font-weight: bold;
 }
@@ -33,12 +32,12 @@ h1 {
     color: #1565c0; /* FC Barcelona blue */
     text-align: center;
     font-size: 36px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 h2 {
     color: #d32f2f; /* Manchester United red */
-    font-size: 24px;
+    font-size: 12px;
 }
 
 /* Paragraphs and lists */
