@@ -10,7 +10,7 @@ body {
 /* Navigation styling */
 nav {
     background-color: #d32f2f; /* Red inspired by Manchester United */
-    padding: 10px;
+    padding: 20px;
     text-align: center;
     border-bottom: 3px solid #1565c0; /* Blue accent inspired by FC Barcelona */
     border-radius: 10px; /* Rounded corners */
@@ -36,8 +36,8 @@ h1 {
 }
 
 h2 {
-    color: #d32f2f; /* Manchester United red */
-    font-size: 12px;
+    color: #ff0000; /* Manchester United red */
+    font-size: 24px;
 }
 
 /* Paragraphs and lists */
